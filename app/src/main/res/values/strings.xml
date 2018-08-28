@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Tasks</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="nome">Nome</string>
+    <string name="email">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="register">Cadastrar</string>
+    <string name="informe_todos_campos">Informe todos os campos!</string>
+    <string name="email_em_uso">E-mail já está em uso.</string>
+    <string name="erro_inesperado">Algo de errado aconteceu</string>
+    <string name="login">Entrar</string>
+    <string name="user_pass_incorrect">Usuário e/ou senha incorretos.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="task_description">Descrição</string>
+    <string name="is_done">Completa</string>
+    <string name="choose_data">Selecione a data</string>
+    <string name="add_task">Adicionar</string>
+    <string name="task_save">Tarefa incluída com sucesso</string>
+    <string name="task_updated">Tarefa atualizada com sucesso</string>
+    <string name="task_deleted">Tarefa removida com sucesso</string>
+    <string name="update_task">Atualizar</string>
+    <string name="account_exists">Não tem uma conta?</string>
+    <string name="register_text">Cadastre-se</string>
+    <string name="priority_text">Prioridade</string>
+</resources>
