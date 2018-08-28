@@ -27,8 +27,8 @@ http://luizhonoratodev.com.br/apps/tasks.apk
 
 # Screenshots
 
-<p><img src="screens/tela_login.png" /></p>
-<p><img src="screens/tela_registro.png" /></p>
-<p><img src="screens/tela_todo_done.png" /></p>
-<p><img src="screens/tela_todo_form.png" /></p>
-<p><img src="screens/tela_datepicker.png" /></p>
+<p><img src="screens/screen_login.png" /></p>
+<p><img src="screens/screen_registro.png" /></p>
+<p><img src="screens/screen_todo_done.png" /></p>
+<p><img src="screens/screen_todo_form.png" /></p>
+<p><img src="screens/screen_datepicker.png" /></p>
